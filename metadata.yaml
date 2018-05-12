@@ -1,0 +1,38 @@
+_repo: Memorie-di-un-vecchio-carbonaro-ravegnano_40299
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Casini, Tommaso
+    birthdate: 1859
+    deathdate: 1917
+    gutenberg_agent_id: '38150'
+    url: http://www.gutenberg.org/2009/agents/38150
+covers:
+- cover_type: archival
+  image_path: 40299-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Uccellini, Primo
+    birthdate: 1804
+    deathdate: 1882
+    gutenberg_agent_id: '40539'
+    url: http://www.gutenberg.org/2009/agents/40539
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2012-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40299'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ravenna (Italy) -- Biography'
+- !lcsh 'Carbonari'
+- !lcsh 'Uccellini, Primo, 1804-1882'
+- !lcc 'DG'
+- !lcsh 'Ravenna (Italy) -- Politics and government -- 19th century'
+- !lcsh 'Revolutionaries -- Italy -- History -- 19th century'
+title: Memorie di un vecchio carbonaro ravegnano
+url: http://www.gutenberg.org/ebooks/40299
